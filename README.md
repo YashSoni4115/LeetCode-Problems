@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0009 Palindrome Number](easy/0009_palindrome_number.py) , easy, Python
+
+
 - [0007 Reverse Integer](medium/0007_reverse_integer.py) , medium, Python
 
 
