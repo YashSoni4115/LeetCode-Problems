@@ -18,4 +18,3 @@ class Solution(object):
             if complement in num_to_index:
                 return [num_to_index[complement], i]
             num_to_index[num] = i
-end
