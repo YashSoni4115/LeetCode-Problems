@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0003 Longest Substring Without Repeating Characters](medium/0003_longest_substring_without_repeating_characters.py) , medium, Python
+
+
 - [0013 Roman to Integer](easy/0013_roman_to_integer.py) , easy, python
 
 
