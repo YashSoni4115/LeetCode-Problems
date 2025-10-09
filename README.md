@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0121 Best Time to Buy and Sell Stock](easy/0121_best_time_to_buy_and_sell_stock.py) , easy, python
+
+
 - [0142 Reorder List](medium/0142_reorder_list.py) , medium, python
 
 
