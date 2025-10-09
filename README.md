@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0017 Letter Combinations of a Phone Number](medium/0017_letter_combinations_of_a_phone_number.py) , medium, python
+
+
 - [0016 3Sum Closest](medium/0016_3sum_closest.py) , medium, python
 
 
