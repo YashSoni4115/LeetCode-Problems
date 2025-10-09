@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0016 3Sum Closest](medium/0016_3sum_closest.py) , medium, python
+
+
 - [0015 3Sum](medium/0015_3sum.py) , medium, python
 
 
