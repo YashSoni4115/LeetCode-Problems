@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0647 Palindromic Substrings](medium/0647_palindromic_substrings.py) , medium, python
+
+
 - [0005 Longest Palindromic String](medium/0005_longest_palindromic_string.py) , medium, python
 
 
