@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [2221 Find Triangular Sum of an Array](medium/2221_find_triangular_sum_of_an_array.py) , medium, python
+
+
 - [0611 Valid Triangle Number](medium/0611_valid_triangle_number.py) , medium, python
 
 
