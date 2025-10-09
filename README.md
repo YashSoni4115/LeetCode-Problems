@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [3100 Water Bottles II](medium/3100_water_bottles_ii.py) , medium, python
+
+
 - [2221 Find Triangular Sum of an Array](medium/2221_find_triangular_sum_of_an_array.py) , medium, python
 
 
