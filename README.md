@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0007 Reverse Integer](medium/0007_reverse_integer.py) , medium, Python
+
+
 - [0006 Zigzag Conversion](medium/0006_zigzag_conversion.py) , medium, python
 
 
