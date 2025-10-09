@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0120 Triangle](medium/0120_triangle.py) , medium, Python
+
+
 - [0018 4Sum](medium/0018_4sum.py) , medium, Python
 
 
