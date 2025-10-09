@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0006 Zigzag Conversion](medium/0006_zigzag_conversion.py) , medium, python
+
+
 - [0002 Add Two Numbers](medium/0002_add_two_numbers.py) , medium, Python
 
 
