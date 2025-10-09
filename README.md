@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0128 Longest Consecutive Sequence](medium/0128_longest_consecutive_sequence.py) , medium, python
+
+
 - [3100 Water Bottles II](medium/3100_water_bottles_ii.py) , medium, python
 
 
