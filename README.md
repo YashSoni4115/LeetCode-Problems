@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0191 Number of 1 Bits](easy/0191_number_of_1_bits.py) , easy, python
+
+
 - [0121 Best Time to Buy and Sell Stock](easy/0121_best_time_to_buy_and_sell_stock.py) , easy, python
 
 
