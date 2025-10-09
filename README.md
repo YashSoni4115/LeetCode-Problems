@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0002 Add Two Numbers](medium/0002_add_two_numbers.py) , medium, Python
+
+
 - [0003 Longest Substring Without Repeating Characters](medium/0003_longest_substring_without_repeating_characters.py) , medium, Python
 
 
