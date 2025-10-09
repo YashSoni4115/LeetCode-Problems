@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0005 Longest Palindromic String](medium/0005_longest_palindromic_string.py) , medium, python
+
+
 - [0133 Clone Graph](medium/0133_clone_graph.py) , medium, python
 
 
