@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0142 Reorder List](medium/0142_reorder_list.py) , medium, python
+
+
 - [0039 Combination Sum](medium/0039_combination_sum.py) , medium, python
 
 
