@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0018 4Sum](medium/0018_4sum.py) , medium, Python
+
+
 - [0017 Letter Combinations of a Phone Number](medium/0017_letter_combinations_of_a_phone_number.py) , medium, python
 
 
