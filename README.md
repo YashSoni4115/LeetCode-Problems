@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0611 Valid Triangle Number](medium/0611_valid_triangle_number.py) , medium, python
+
+
 - [0120 Triangle](medium/0120_triangle.py) , medium, Python
 
 
