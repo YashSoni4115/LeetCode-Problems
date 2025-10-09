@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0039 Combination Sum](medium/0039_combination_sum.py) , medium, python
+
+
 - [0647 Palindromic Substrings](medium/0647_palindromic_substrings.py) , medium, python
 
 
