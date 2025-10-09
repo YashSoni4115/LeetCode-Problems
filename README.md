@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0015 3Sum](medium/0015_3sum.py) , medium, python
+
+
 - [0011 Container With Most Water](medium/0011_container_with_most_water.py) , medium, python
 
 
