@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [1768 Merge Strings Alternately](easy/1768_merge_strings_alternately.py) , easy, python
+
+
 - [0191 Number of 1 Bits](easy/0191_number_of_1_bits.py) , easy, python
 
 
