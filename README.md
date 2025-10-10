@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0643 Maximum Average Subarray](easy/0643_maximum_average_subarray.py) , easy, python
+
+
 - [1679 Max Number of K-Sum Pairs](medium/1679_max_number_of_k_sum_pairs.py) , medium, python
 
 
