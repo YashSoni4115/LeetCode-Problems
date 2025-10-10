@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [1679 Max Number of K-Sum Pairs](medium/1679_max_number_of_k_sum_pairs.py) , medium, python
+
+
 - [0175 Combine Two Tables](easy/0175_combine_two_tables.sql) , easy, sql
 
 
