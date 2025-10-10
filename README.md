@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0175 Combine Two Tables](easy/0175_combine_two_tables.sql) , easy, sql
+
+
 - [1768 Merge Strings Alternately](easy/1768_merge_strings_alternately.py) , easy, python
 
 
