@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0048 Rotate Image](medium/0048_rotate_image.py) , medium, python
+
+
 - [0023 Merge k Sorted Lists](hard/0023_merge_k_sorted_lists.py) , hard, python
 
 
