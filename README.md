@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0020 Valid Parentheses](easy/0020_valid_parentheses.py) , easy, python
+
+
 - [0019 Remove Nth Node From End of List](medium/0019_remove_nth_node_from_end_of_list.py) , medium, python
 
 
