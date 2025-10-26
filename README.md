@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0230 Kth Smallest Element in a BST](medium/0230_kth_smallest_element_in_a_bst.py) , medium, python
+
+
 - [0295 Find Median from Data Stream](hard/0295_find_median_from_data_stream.py) , hard, python
 
 
