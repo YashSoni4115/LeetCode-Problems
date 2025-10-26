@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0268 Missing Number](easy/0268_missing_number.py) , easy, python
+
+
 - [0141 Linked List Cycle](easy/0141_linked_list_cycle.py) , easy, python
 
 
