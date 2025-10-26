@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0021 Merge Two Sorted Lists](easy/0021_merge_two_sorted_lists.py) , easy, python
+
+
 - [0020 Valid Parentheses](easy/0020_valid_parentheses.py) , easy, python
 
 
