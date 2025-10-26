@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0139 Word Break](medium/0139_word_break.py) , medium, python
+
+
 - [0345 Reverse Vowels of a String](easy/0345_reverse_vowels_of_a_string.py) , easy, python
 
 
