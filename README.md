@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0152 Maximum Product Subarray](medium/0152_maximum_product_subarray.py) , medium, python
+
+
 - [0021 Merge Two Sorted Lists](easy/0021_merge_two_sorted_lists.py) , easy, python
 
 
