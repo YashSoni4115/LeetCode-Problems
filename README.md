@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0023 Merge k Sorted Lists](hard/0023_merge_k_sorted_lists.py) , hard, python
+
+
 - [0033 Search in Rotated Sorted Array](medium/0033_search_in_rotated_sorted_array.py) , medium, python
 
 
