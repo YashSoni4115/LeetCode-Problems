@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0033 Search in Rotated Sorted Array](medium/0033_search_in_rotated_sorted_array.py) , medium, python
+
+
 - [0152 Maximum Product Subarray](medium/0152_maximum_product_subarray.py) , medium, python
 
 
