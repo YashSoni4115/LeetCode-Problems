@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0141 Linked List Cycle](easy/0141_linked_list_cycle.py) , easy, python
+
+
 - [0139 Word Break](medium/0139_word_break.py) , medium, python
 
 
