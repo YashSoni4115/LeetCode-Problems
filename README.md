@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0297 Serialize and Deserialize Binary Tree](hard/0297_serialize_and_deserialize_binary_tree.py) , hard, python
+
+
 - [0230 Kth Smallest Element in a BST](medium/0230_kth_smallest_element_in_a_bst.py) , medium, python
 
 
