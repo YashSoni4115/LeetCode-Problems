@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0295 Find Median from Data Stream](hard/0295_find_median_from_data_stream.py) , hard, python
+
+
 - [0048 Rotate Image](medium/0048_rotate_image.py) , medium, python
 
 
