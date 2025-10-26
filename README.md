@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0019 Remove Nth Node From End of List](medium/0019_remove_nth_node_from_end_of_list.py) , medium, python
+
+
 - [0268 Missing Number](easy/0268_missing_number.py) , easy, python
 
 
