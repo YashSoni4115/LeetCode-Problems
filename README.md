@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0242 Valid Anagram](easy/0242_valid_anagram.py) , easy, python
+
+
 - [0125 Valid Palindrome](easy/0125_valid_palindrome.py) , easy, python
 
 
