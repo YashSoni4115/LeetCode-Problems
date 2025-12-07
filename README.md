@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0125 Valid Palindrome](easy/0125_valid_palindrome.py) , easy, python
+
+
 - [0297 Serialize and Deserialize Binary Tree](hard/0297_serialize_and_deserialize_binary_tree.py) , hard, python
 
 
