@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0217 Conatins Duplicates](easy/0217_conatins_duplicates.py) , easy, python
+
+
 - [0242 Valid Anagram](easy/0242_valid_anagram.py) , easy, python
 
 
