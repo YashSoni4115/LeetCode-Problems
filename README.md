@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0056 Merge Intervals](medium/0056_merge_intervals.py) , medium, python
+
+
 - [0200 Number of Islands](medium/0200_number_of_islands.py) , medium, python
 
 
