@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0198 House Robber](medium/0198_house_robber.py) , medium, python
+
+
 - [0211 Design Add and Search Words Data Structure](medium/0211_design_add_and_search_words_data_structure.py) , medium, python
 
 
