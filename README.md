@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0062 Unique Paths](medium/0062_unique_paths.py) , medium, python
+
+
 - [0190 Reverse Bits](easy/0190_reverse_bits.py) , easy, python
 
 
