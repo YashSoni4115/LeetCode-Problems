@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0070 Climbing Stairs](easy/0070_climbing_stairs.py) , easy, python
+
+
 - [0062 Unique Paths](medium/0062_unique_paths.py) , medium, python
 
 
