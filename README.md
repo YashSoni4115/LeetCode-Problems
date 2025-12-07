@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0190 Reverse Bits](easy/0190_reverse_bits.py) , easy, python
+
+
 - [0198 House Robber](medium/0198_house_robber.py) , medium, python
 
 
