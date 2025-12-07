@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0073 Set Matrix Zeroes](medium/0073_set_matrix_zeroes.py) , medium, python
+
+
 - [0217 Conatins Duplicates](easy/0217_conatins_duplicates.py) , easy, python
 
 
