@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0200 Number of Islands](medium/0200_number_of_islands.py) , medium, python
+
+
 - [0073 Set Matrix Zeroes](medium/0073_set_matrix_zeroes.py) , medium, python
 
 
