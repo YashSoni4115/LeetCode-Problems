@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0211 Design Add and Search Words Data Structure](medium/0211_design_add_and_search_words_data_structure.py) , medium, python
+
+
 - [0056 Merge Intervals](medium/0056_merge_intervals.py) , medium, python
 
 
