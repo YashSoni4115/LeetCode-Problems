@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0055 Jump Game](medium/0055_jump_game.py) , medium, python
+
+
 - [0139 Word Break](medium/0139_word_break.py) , medium, python
 
 
