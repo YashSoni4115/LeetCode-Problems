@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0322 Coin Change](medium/0322_coin_change.py) , medium, python
+
+
 - [0070 Climbing Stairs](easy/0070_climbing_stairs.py) , easy, python
 
 
