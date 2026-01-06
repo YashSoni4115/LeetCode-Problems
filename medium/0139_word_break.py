@@ -1,7 +1,7 @@
 """
 ------------------------------------------------------------
 LeetCode 139, Word Break, difficulty medium, language python
-Saved at 2025-10-26 13:28:58
+Saved at 2026-01-06 15:46:07
 ------------------------------------------------------------
 """
 
@@ -13,22 +13,12 @@ class Solution(object):
         :rtype: bool
         """
 
-        wordDict = set(wordDict)
-
         dp = [False] * (len(s) + 1)
-
         dp[0] = True
 
         for i in range(1, len(s) + 1):
-
-            for j in range(0, i):
-                
-                print(str(s[:j-1]), str(s[j:i]), dp[j])
-
-                if dp[j] and s[j:i] in wordDict:
-
+            for word in wordDict:
+                if s[i - len(word):i] == word and dp[i - len(word)] == True:
                     dp[i] = True
-
-                    break
         
-        return dp[len(s)]
+        return dp[-1]

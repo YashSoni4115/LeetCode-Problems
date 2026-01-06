@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0139 Word Break](medium/0139_word_break.py) , medium, python
+
+
 - [0322 Coin Change](medium/0322_coin_change.py) , medium, python
 
 
