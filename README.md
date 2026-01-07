@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0091 Decode Ways](medium/0091_decode_ways.py) , medium, py
+
+
 - [0055 Jump Game](medium/0055_jump_game.py) , medium, python
 
 
