@@ -2,7 +2,14 @@
 
 ## Solutions
 
+<<<<<<< HEAD
 - [0091 Decode Ways](medium/0091_decode_ways.py) , medium, python
+=======
+- [0235 Lowest Common Ancestor of a Binary Search Tree](medium/0235_lowest_common_ancestor_of_a_binary_search_tree.py) , medium, python
+
+
+- [0091 Decode Ways](medium/0091_decode_ways.py) , medium, py
+>>>>>>> 7d6ae3e (Add 0235 Lowest Common Ancestor of a Binary Search Tree, medium, python)
 
 
 - [0055 Jump Game](medium/0055_jump_game.py) , medium, python
