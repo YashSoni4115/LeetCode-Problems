@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0235 Lowest Common Ancestor of a Binary Search Tree](medium/0235_lowest_common_ancestor_of_a_binary_search_tree.py) , medium, python
+
+
 <<<<<<< HEAD
 - [0091 Decode Ways](medium/0091_decode_ways.py) , medium, python
 =======
