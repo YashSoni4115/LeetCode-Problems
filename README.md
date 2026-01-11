@@ -2,13 +2,16 @@
 
 ## Solutions
 
+- [0206 Reverse Linked List](easy/0206_reverse_linked_list.py) , easy, python
+
+
 - [0104 Maximum Depth of Binary Tree](easy/0104_maximum_depth_of_binary_tree.py) , easy, python
 
 
 - [0235 Lowest Common Ancestor of a Binary Search Tree](medium/0235_lowest_common_ancestor_of_a_binary_search_tree.py) , medium, python
 
 
-- [0091 Decode Ways](medium/0091_decode_ways.py) , medium, py
+- [0091 Decode Ways](medium/0091_decode_ways.py) , medium, python
 
 
 - [0055 Jump Game](medium/0055_jump_game.py) , medium, python
