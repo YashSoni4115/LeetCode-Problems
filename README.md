@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0057 Insert Interval](medium/0057_insert_interval.py) , medium, python
+
+
 - [0098 Validate Binary Search Tree](medium/0098_validate_binary_search_tree.py) , medium, python
 
 
