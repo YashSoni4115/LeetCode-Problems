@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0100 Same Tree](easy/0100_same_tree.py) , easy, python
+
+
 - [0057 Insert Interval](medium/0057_insert_interval.py) , medium, python
 
 
