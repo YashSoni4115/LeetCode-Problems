@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0098 Validate Binary Search Tree](medium/0098_validate_binary_search_tree.py) , medium, python
+
+
 - [0206 Reverse Linked List](easy/0206_reverse_linked_list.py) , easy, python
 
 
