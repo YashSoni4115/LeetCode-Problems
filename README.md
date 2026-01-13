@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0226 Invert Binary Tree](easy/0226_invert_binary_tree.py) , easy, python
+
+
 - [0100 Same Tree](easy/0100_same_tree.py) , easy, python
 
 
