@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0424 Longest Repeating Character Replacement](medium/0424_longest_repeating_character_replacement.py) , medium, python
+
+
 - [0213 House Robber II](medium/0213_house_robber_ii.py) , medium, python
 
 
