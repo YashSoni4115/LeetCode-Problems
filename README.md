@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0207 Course Schedule](medium/0207_course_schedule.py) , medium, python
+
+
 - [0338 Counting Bits](easy/0338_counting_bits.py) , easy, python
 
 
