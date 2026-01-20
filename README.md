@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0208 Implement Trie (Prefix Tree)](medium/0208_implement_trie_prefix_tree.py) , medium, python
+
+
 - [2154 Keep Multiplying Found Values by Two](easy/2154_keep_multiplying_found_values_by_two.py) , easy, python
 
 
