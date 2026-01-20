@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [2154 Keep Multiplying Found Values by Two](easy/2154_keep_multiplying_found_values_by_two.py) , easy, python
+
+
 - [0347 Top K Frequent Elements](medium/0347_top_k_frequent_elements.py) , medium, python
 
 
