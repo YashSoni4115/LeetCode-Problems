@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0213 House Robber II](medium/0213_house_robber_ii.py) , medium, python
+
+
 - [0207 Course Schedule](medium/0207_course_schedule.py) , medium, python
 
 
