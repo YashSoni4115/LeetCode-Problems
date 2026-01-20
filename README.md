@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [2435 Paths in Matrix Whose Sum Is Divisible by K](hard/2435_paths_in_matrix_whose_sum_is_divisible_by_k.py) , hard, python
+
+
 - [0208 Implement Trie (Prefix Tree)](medium/0208_implement_trie_prefix_tree.py) , medium, python
 
 
