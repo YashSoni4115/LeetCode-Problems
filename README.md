@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0338 Counting Bits](easy/0338_counting_bits.py) , easy, python
+
+
 - [0572 Subtree of Another Subtree](easy/0572_subtree_of_another_subtree.py) , easy, python
 
 
