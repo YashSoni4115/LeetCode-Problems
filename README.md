@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0347 Top K Frequent Elements](medium/0347_top_k_frequent_elements.py) , medium, python
+
+
 - [0424 Longest Repeating Character Replacement](medium/0424_longest_repeating_character_replacement.py) , medium, python
 
 
