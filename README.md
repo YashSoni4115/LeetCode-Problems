@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0572 Subtree of Another Subtree](easy/0572_subtree_of_another_subtree.py) , easy, python
+
+
 - [0238 Product of Array Except Self](medium/0238_product_of_array_except_self.py) , medium, python
 
 
