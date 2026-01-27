@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [1514 Path with Maximum Probability](medium/1514_path_with_maximum_probability.py) , medium, python
+
+
 - [2435 Paths in Matrix Whose Sum Is Divisible by K](hard/2435_paths_in_matrix_whose_sum_is_divisible_by_k.py) , hard, python
 
 
