@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [1448 Count Good Nodes in Binary Tree](medium/1448_count_good_nodes_in_binary_tree.py) , medium, python
+
+
 - [1514 Path with Maximum Probability](medium/1514_path_with_maximum_probability.py) , medium, python
 
 
