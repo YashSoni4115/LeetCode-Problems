@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0987 Vertical Order Traversal of a Binary Tree](hard/0987_vertical_order_traversal_of_a_binary_tree.py) , hard, python
+
+
 - [1448 Count Good Nodes in Binary Tree](medium/1448_count_good_nodes_in_binary_tree.py) , medium, python
 
 
