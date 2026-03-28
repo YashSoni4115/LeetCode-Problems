@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [3627 Maximum Median Sum of Subsequences of Size 3](medium/3627_maximum_median_sum_of_subsequences_of_size_3.py) , medium, python
+
+
 - [0202 Happy Number](easy/0202_happy_number.py) , easy, python
 
 
