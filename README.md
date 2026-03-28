@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0518 Coin Change II](medium/0518_coin_change_ii.py) , medium, python
+
+
 - [0987 Vertical Order Traversal of a Binary Tree](hard/0987_vertical_order_traversal_of_a_binary_tree.py) , hard, python
 
 
