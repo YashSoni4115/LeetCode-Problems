@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0040 Combination Sum](medium/0040_combination_sum.py) , medium, python
+
+
 - [0994 Rotting Oranges](medium/0994_rotting_oranges.py) , medium, python
 
 
