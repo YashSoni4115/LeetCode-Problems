@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0994 Rotting Oranges](medium/0994_rotting_oranges.py) , medium, python
+
+
 - [0518 Coin Change II](medium/0518_coin_change_ii.py) , medium, python
 
 
