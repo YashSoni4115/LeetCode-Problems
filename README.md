@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0074 Search a 2D Matrix](medium/0074_search_a_2d_matrix.py) , medium, python
+
+
 - [0040 Combination Sum](medium/0040_combination_sum.py) , medium, python
 
 
