@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0202 Happy Number](easy/0202_happy_number.py) , easy, python
+
+
 - [0074 Search a 2D Matrix](medium/0074_search_a_2d_matrix.py) , medium, python
 
 
