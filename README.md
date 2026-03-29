@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0025 Reverse Nodes in k-Group](hard/0025_reverse_nodes_in_k_group.py) , hard, python
+
+
 - [3627 Maximum Median Sum of Subsequences of Size 3](medium/3627_maximum_median_sum_of_subsequences_of_size_3.py) , medium, python
 
 
