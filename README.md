@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0183 Customers Who Never Order](easy/0183_customers_who_never_order.py) , easy, python
+
+
 - [0182 Duplicate Emails](easy/0182_duplicate_emails.sql) , easy, sql
 
 
