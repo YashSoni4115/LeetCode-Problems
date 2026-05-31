@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0511 Game Play Analysis I](easy/0511_game_play_analysis_i.sql) , easy, sql
+
+
 - [0511 Game Play Analysis I](easy/0511_game_play_analysis_i.py) , easy, python
 
 
