@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0199 Binary Tree Right Side View](medium/0199_binary_tree_right_side_view.py) , medium, python
+
+
 - [0167 Two Sum II - Input Array Is Sorted](medium/0167_two_sum_ii_input_array_is_sorted.py) , medium, python
 
 
