@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0182 Duplicate Emails](easy/0182_duplicate_emails.sql) , easy, sql
+
+
 - [0182 Duplicate Emails](easy/0182_duplicate_emails.py) , easy, python
 
 
