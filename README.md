@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0167 Two Sum II - Input Array Is Sorted](medium/0167_two_sum_ii_input_array_is_sorted.py) , medium, python
+
+
 - [0050 Pow(x, n)](medium/0050_powx_n.py) , medium, python
 
 
