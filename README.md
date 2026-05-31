@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0181 Employees Earning More Than Their Managers](easy/0181_employees_earning_more_than_their_managers.sql) , easy, sql
+
+
 - [0066 Plus One](easy/0066_plus_one.py) , easy, python
 
 
