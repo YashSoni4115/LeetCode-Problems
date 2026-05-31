@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0197 Rising Temperature](easy/0197_rising_temperature.sql) , easy, sql
+
+
 - [0197 Rising Temperature](easy/0197_rising_temperature.py) , easy, python
 
 
