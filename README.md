@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0610 Triangle Judgement](easy/0610_triangle_judgement.sql) , easy, sql
+
+
 - [0610 Triangle Judgement](easy/0610_triangle_judgement.py) , easy, python
 
 
