@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0183 Customers Who Never Order](easy/0183_customers_who_never_order.sql) , easy, sql
+
+
 - [0183 Customers Who Never Order](easy/0183_customers_who_never_order.py) , easy, python
 
 
