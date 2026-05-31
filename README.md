@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0050 Pow(x, n)](medium/0050_powx_n.py) , medium, python
+
+
 - [0025 Reverse Nodes in k-Group](hard/0025_reverse_nodes_in_k_group.py) , hard, python
 
 
