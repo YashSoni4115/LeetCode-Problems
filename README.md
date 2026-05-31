@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0610 Triangle Judgement](easy/0610_triangle_judgement.py) , easy, python
+
+
 - [0511 Game Play Analysis I](easy/0511_game_play_analysis_i.sql) , easy, sql
 
 
