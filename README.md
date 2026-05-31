@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0511 Game Play Analysis I](easy/0511_game_play_analysis_i.py) , easy, python
+
+
 - [0197 Rising Temperature](easy/0197_rising_temperature.sql) , easy, sql
 
 
