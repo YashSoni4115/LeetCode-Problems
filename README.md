@@ -2,6 +2,9 @@
 
 ## Solutions
 
+- [0066 Plus One](easy/0066_plus_one.py) , easy, python
+
+
 - [0199 Binary Tree Right Side View](medium/0199_binary_tree_right_side_view.py) , medium, python
 
 
